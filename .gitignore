@@ -1,0 +1,6 @@
+# Local development tools
+# Claude Code
+.claude/
+
+# Python virtual environment
+ai-engineer-month1/
