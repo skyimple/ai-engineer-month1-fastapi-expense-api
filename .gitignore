@@ -1,6 +1,19 @@
-# Local development tools
 # Claude Code
 .claude/
 
 # Python virtual environment
 ai-engineer-month1/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# SQLite database
+*.db
+
+# Local data files
+expenses.json
+weather_history.json
