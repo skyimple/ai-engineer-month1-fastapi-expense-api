@@ -1,0 +1,20 @@
+[
+  {
+    "amount": 50.0,
+    "category": "food",
+    "date": "2026-03-01",
+    "note": "Lunch"
+  },
+  {
+    "amount": 120.0,
+    "category": "transport",
+    "date": "2026-03-02",
+    "note": "Bus fare"
+  },
+  {
+    "amount": 100.0,
+    "category": "traffic",
+    "date": "2025-11-01",
+    "note": "visiting customer"
+  }
+]
