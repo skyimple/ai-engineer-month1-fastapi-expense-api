@@ -1,0 +1,1 @@
+"""FastAPI Expense API Package."""
